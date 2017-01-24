@@ -1,0 +1,10 @@
+{
+  "name": "Autodeploy_Solution_For_Lambda",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "restify": "^4.3.0"
+  }
+}

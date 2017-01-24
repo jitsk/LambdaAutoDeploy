@@ -1,0 +1,10 @@
+{
+  "name": "create",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "http": "0.0.0",
+    "mysql": "^2.12.0"
+  }
+}
